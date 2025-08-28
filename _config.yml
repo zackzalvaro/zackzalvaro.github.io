@@ -1,0 +1,5 @@
+name: Zack Zalvaro
+markdown: kramdown
+
+permalink: /:year/:month/:day/:title
+site_url: https://zackzalvaro.github.io/
